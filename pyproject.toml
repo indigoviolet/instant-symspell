@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "symspell"
+version = "0.1.0"
+description = ""
+authors = ["Venky Iyer <indigoviolet@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+symspellpy = "^6.7.6"
+
+[tool.poetry.dev-dependencies]
+ipykernel = "^6.15.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
