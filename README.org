@@ -1,0 +1,6 @@
+#+TITLE: Experiments with Symspell
+
+
+- Uses [Symspell](https://symspellpy.readthedocs.io/), Python port of Symspell 6.7
+
+- See demo.ipynb notebook
