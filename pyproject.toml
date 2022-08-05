@@ -7,6 +7,8 @@ authors = ["Venky Iyer <indigoviolet@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.9"
 symspellpy = "^6.7.6"
+tqdm = "^4.64.0"
+pandas = "^1.4.3"
 
 [tool.poetry.dev-dependencies]
 ipykernel = "^6.15.1"
